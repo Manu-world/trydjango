@@ -15,8 +15,5 @@ git add .
 # Commit the changes with the provided commit message
 git commit -m "$commit_message"
 
-# Push the changes to the remote repository's main branch
-git push origin main
-
 # Print a success message
-echo "Code committed and pushed successfully to origin/main"
+echo "Code committed"
